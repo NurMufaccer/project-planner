@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "New Homepage Banner ",
+      "details": "Bla Bla Bla...Ha Ha Ha",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Make E-mail",
+      "details": "Bla Bla Bla...",
+      "complete": false
+    },
+    {
+      "id": "3043",
+      "title": "New Card",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem sunt nam laudantium quae minima labore illo aliquam? Ducimus, quae, nesciunt aspernatur autem commodi enim distinctio facilis aliquid itaque molestiae odit.",
+      "complete": true
+    }
+  ]
+}
